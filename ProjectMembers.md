@@ -9,6 +9,7 @@ Faculty Module:
     Queency Lee Lapating
     Rosheil Parel
 Student Module:
+    Jessica Marie Valderrama
 
 Alumni Module:
 
